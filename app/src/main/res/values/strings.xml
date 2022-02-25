@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenStreetYandexSchedule</string>
+    <string name="key">Your Yandex Schedule key</string>
+    <string name="format">json</string>
+    <string name="land">ru_RU</string>
+    <string name="rgd">train</string>
+    <string name="bus">bus</string>
+    <string name="plane">plane</string>
+    <string name="dialog_btn">close</string>
+</resources>
